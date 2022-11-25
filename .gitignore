@@ -1,0 +1,4 @@
+*.DS_Store
+/build
+.cache/*
+.cache/clangd/index/main.cpp.4B3BB07C889F9636.idx
